@@ -15,6 +15,14 @@ home-title-y-padding: 10em
 home-banner-image-position: #default is center
 
 ##########
+# ABOUT PAGE
+#
+# featured image on About page - if left blank, CB will use image featured on the home page
+# use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
+about-featured-image: 
+
+
+##########
 # ITEM PAGE
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
