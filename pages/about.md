@@ -18,6 +18,13 @@ Given the purpose of the US Latino periodical–to disseminate knowledge to the 
  
 We will provide an analysis of how the periodicals chronicled several themes. First, the documentation of several well-known race-exclusive organizations and their actions toward racial relations and discrimination. Second, Mexico’s relationship to blacks and blackness is based on the gender and cultural influence of the US, Mexico and the turn of the 19th century. Third, the ongoing issue of Spain and its position on enslavement in Puerto Rico and Cuba, post the period of US Emancipation. We will also discuss the challenges to uncover discussions around Blackness as well as our approaches to assessing metadata used to describe these articles. Moreover, this project seeks to recover the intersecting elements of Africa and Latinidad as a type of Africanidad.
 
+Books used to inform theory of the collection include; 
+“Colonial Blackness - A History of Afro-Mexico” by Herman L. Bennett
+“No Longer Invisible - Afro-Latin Americans Today” edited by Minority Rights Group
+“The Latino Nineteeth Century” edited by Rodrigo Lazo and Jesse Aleman
+“The Ku Klux Klan’s Campaign Against Hispanics 1921 - 1925”  Juan O. Sanchez
+“The Black Atlantic” Paul Gilroy
+“In Search of the Racial Frontier” Quintard Taylor
 
 
 
